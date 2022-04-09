@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{630:function(t,n,e){"use strict";e.r(n);var r={},i=e(57),s=Object(i.a)(r,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("por-button",{attrs:{type:"primary",loading:""}},[this._v("加载中")])],1)}),[],!1,null,null,null);n.default=s.exports}}]);
