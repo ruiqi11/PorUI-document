@@ -6,7 +6,8 @@ module.exports = {
   markdown: {
     anchor: { permalink: false },
   },
-  base: /PorUI/,
+  base: "./",
+  // base: "/",
   themeConfig: { //主题配置
     nav: [{
         text: '主页',
@@ -24,11 +25,11 @@ module.exports = {
         collapsable: false,
         children: [
           "/components/button",
-          // "/components/input",
-          // "/components/tabs",
-          // "/components/toast",
-          // "/components/popover",
-          // "/components/layout",
+          "/components/input",
+          "/components/tabs",
+          "/components/toast",
+          "/components/popover",
+          "/components/layout",
         ]
       }
     ]
